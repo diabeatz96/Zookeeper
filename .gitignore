@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/

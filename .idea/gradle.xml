@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Edit it" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Equivalent" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Data types/How to declare a type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Type mismatch" />
+            <option value="$PROJECT_DIR$/Topics/Data types/What is type inference" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Find the output (1)" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Statements about brackets in if" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Returning a result" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Square root" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Subtraction function" />
+            <option value="$PROJECT_DIR$/Topics/Invoking functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Application" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Name of an entry point" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
+            <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Counting positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Grades" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Increment in loop" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Repeat by value" />
+            <option value="$PROJECT_DIR$/Topics/Repeating blocks/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/First, second, third" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/From 0 to 9" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Print a triangle" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Standard output/What does the program print" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Arithmetic expression" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Print two numbers on the same line" />
+            <option value="$PROJECT_DIR$/Topics/String templates/String and its Int" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/What are string templates" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Bank interest calculation" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print (1)" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
